@@ -1,0 +1,9 @@
+
+L
+java:S1874"6Remove this use of "implicitlyWait"; it is deprecated.(şÖÀ™
+Q	java:S125"<This block of commented-out lines of code should be removed.(âœ¢ì
+G
+java:S1172$"1Remove this unused method parameter "timeToWait".(Óûùş
+`
+java:S1128"CRemove this unused import 'org.openqa.selenium.JavascriptExecutor'.(Ë‚«»8Á‡à«™0
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(š¢òC

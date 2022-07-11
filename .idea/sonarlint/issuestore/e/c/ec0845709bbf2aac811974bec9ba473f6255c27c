@@ -1,0 +1,5 @@
+
+y	java:S116"XRename this field "pantone_value" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€•™—üÿÿÿÿ8îì·š0
+j	java:S100%"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø½ı8ĞÌñ·š0
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡†Ü«úÿÿÿÿ8†×ğ·š0
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(«‡Èùÿÿÿÿ
